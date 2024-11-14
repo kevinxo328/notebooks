@@ -1,0 +1,11 @@
+sentence1,sentence2,expected_similarity_score
+"The weather is nice today.","The weather is great today.",0.9
+"I am going to the store.","I'm going to the shop.",0.8
+"How are you doing?","How have you been?",0.85
+"I enjoy reading books.","I love to read novels.",0.85
+"Cats are cute animals.","Kittens are adorable creatures.",0.85
+"I like coffee in the morning.","I enjoy drinking coffee in the morning.",0.95
+"Open the door, please.","Please open the door.",0.95
+"This is a complex problem.","This issue is complicated.",0.9
+"The car is blue.","The vehicle is blue.",0.9
+"She loves painting.","She enjoys creating art.",0.9

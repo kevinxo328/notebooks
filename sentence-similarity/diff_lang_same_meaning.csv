@@ -1,0 +1,11 @@
+sentence1,sentence2,expected_similarity_score
+"The weather is nice today.","今天天氣很好。",0.9
+"I am going to the store.","我打算去商店。",0.9
+"How are you doing?","你最近怎麼樣？",0.85
+"This is a red apple.","這是一顆紅蘋果。",0.95
+"I enjoy reading books.","我喜歡看書。",0.85
+"Cats are cute animals.","貓是很可愛的動物。",0.9
+"I like coffee in the morning.","我早上喜歡喝咖啡。",0.95
+"Open the door, please.","請打開門。",0.9
+"The car is blue.","這輛車是藍色的。",0.9
+"She loves painting.","她喜歡畫畫。",0.9
